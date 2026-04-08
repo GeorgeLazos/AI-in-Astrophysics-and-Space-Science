@@ -35,3 +35,8 @@ Week6/processed_data/**
 
 Week6/predictions/**
 !Week6/predictions/.gitkeep
+
+Week7/data/**
+!Week7/data/.gitkeep
+
+Week7/*.weights.h5
