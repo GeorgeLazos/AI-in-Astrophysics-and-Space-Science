@@ -40,3 +40,5 @@ Week7/data/**
 !Week7/data/.gitkeep
 
 Week7/*.weights.h5
+
+Week8/cache_*.npz
